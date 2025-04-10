@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 93bc380f08cbebf429e16bd70560b52c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hoverTexture: {fileID: 2800000, guid: fe42f3f3e9cb9f046b6db456e1a55be7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
